@@ -381,3 +381,8 @@ F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Khoa\Delete.csht
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Khoa\Details.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Khoa\Edit.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Khoa\Index.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Create.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Delete.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Details.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Edit.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Index.cshtml.g.cs

@@ -20,9 +20,17 @@ namespace DemoMVC.Controllers
         }
 
         // GET: Students
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Student.ToListAsync());
+            var students = from m in _context.Student
+                 select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                students = students.Where(m => m.StudentID.Contains(searchString));
+            }
+
+            return View(await students.ToListAsync());
         }
 
         // GET: Students/Details/5
