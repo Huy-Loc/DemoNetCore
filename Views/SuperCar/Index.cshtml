@@ -1,0 +1,53 @@
+@model IEnumerable<DemoMVC.Models.SuperCar>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SuperCarID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SuperCarName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SuperCarPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SuperCarID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SuperCarName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SuperCarPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CarID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CarID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CarID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

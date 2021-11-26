@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using DemoMVC.Models;
-
+namespace DemoMVC.Data{
     public class ApplicationDBContext : DbContext
     {
         public ApplicationDBContext (DbContextOptions<ApplicationDBContext> options)
@@ -20,8 +20,21 @@ using DemoMVC.Models;
         public DbSet<DemoMVC.Models.Employee> Employee { get; set; }
 
         public DbSet<DemoMVC.Models.Person> Person { get; set; }
+        public DbSet<DemoMVC.Models.Car> Car { get; set; }
+        public DbSet<DemoMVC.Models.Car> SuperCar { get; set; }
+
+        public DbSet<DemoMVC.Models.Khoa> Khoa { get; set; }
+        public DbSet<DemoMVC.Models.ChuyenNganh> ChuyenNganh { get; set; }
+
+     
+      
+    
+
+      
+
 
       
 
        
     }
+}

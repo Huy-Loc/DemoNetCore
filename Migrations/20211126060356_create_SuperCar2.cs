@@ -2,7 +2,7 @@
 
 namespace DemoMVC.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class create_SuperCar2 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

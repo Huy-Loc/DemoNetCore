@@ -7440,11 +7440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NetCore\\DemoMVC\\DemoMVC.csproj",
+      "projectUniqueName": "F:\\NetCore\\NetCoredemo\\DemoNetCore\\DemoMVC.csproj",
       "projectName": "DemoMVC",
-      "projectPath": "F:\\NetCore\\DemoMVC\\DemoMVC.csproj",
+      "projectPath": "F:\\NetCore\\NetCoredemo\\DemoNetCore\\DemoMVC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\NetCore\\DemoMVC\\obj\\",
+      "outputPath": "F:\\NetCore\\NetCoredemo\\DemoNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
