@@ -19,12 +19,13 @@ namespace DemoMVC.Data{
 
         public DbSet<DemoMVC.Models.Employee> Employee { get; set; }
 
-        public DbSet<DemoMVC.Models.Person> Person { get; set; }
         public DbSet<DemoMVC.Models.Car> Car { get; set; }
         public DbSet<DemoMVC.Models.Car> SuperCar { get; set; }
 
         public DbSet<DemoMVC.Models.Khoa> Khoa { get; set; }
         public DbSet<DemoMVC.Models.ChuyenNganh> ChuyenNganh { get; set; }
+        public DbSet<DemoMVC.Models.Movie> Movie { get; set; }
+
 
      
       

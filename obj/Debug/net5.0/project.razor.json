@@ -15649,13 +15649,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Persons\\Details.cshtml",
-      "TargetPath": "Views\\Persons\\Details.cshtml",
+      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Persons\\Edit.cshtml",
-      "TargetPath": "Views\\Persons\\Edit.cshtml",
+      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15664,13 +15664,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Khoa\\Details.cshtml",
       "TargetPath": "Views\\Khoa\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Persons\\Index.cshtml",
-      "TargetPath": "Views\\Persons\\Index.cshtml",
+      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15759,11 +15764,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Persons\\Delete.cshtml",
-      "TargetPath": "Views\\Persons\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\HelloWorld\\Welcome.cshtml",
       "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
@@ -15776,11 +15776,6 @@
     {
       "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Khoa\\Index.cshtml",
       "TargetPath": "Views\\Khoa\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Persons\\Create.cshtml",
-      "TargetPath": "Views\\Persons\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15806,6 +15801,11 @@
     {
       "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\NetCore\\NetCoredemo\\DemoNetCore\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

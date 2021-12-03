@@ -343,11 +343,6 @@ F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\HelloWorld\Index
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Persons\Create.cshtml.g.cs
-F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Persons\Delete.cshtml.g.cs
-F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Persons\Details.cshtml.g.cs
-F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Persons\Edit.cshtml.g.cs
-F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Persons\Index.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -386,3 +381,8 @@ F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Dele
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Details.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Edit.cshtml.g.cs
 F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\ChuyenNganh\Index.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\NetCore\NetCoredemo\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs

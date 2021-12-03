@@ -42,6 +42,9 @@ namespace DemoMVC
             }
         });
 
+            services.AddDbContext<ApplicationDBContext>(options =>
+                    options.UseSqlite(Configuration.GetConnectionString("ApplicationDBContext")));
+
             // services.AddDbContext<ApplicationDBContext>(options =>
             //         options.UseSqlite(Configuration.GetConnectionString("ApplicationDBContext")));
         }

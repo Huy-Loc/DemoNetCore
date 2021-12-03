@@ -25,7 +25,8 @@ namespace DemoMVC.Models
                     {
                         StudentID = "001",
                         StudentName = "Nguyễn Văn A",
-                        Address = "Hà Nội"
+                        Address = "Hà Nội",
+                        PhoneNumber = "0987654321"
                         
                     },
 
@@ -33,7 +34,8 @@ namespace DemoMVC.Models
                     {
                         StudentID = "002",
                         StudentName = "Lê Văn B",
-                        Address = "Hải Phòng"
+                        Address = "Hải Phòng",
+                        PhoneNumber = "098712345"
                         
                     },
 
@@ -41,7 +43,8 @@ namespace DemoMVC.Models
                     {
                         StudentID = "003",
                         StudentName = "Phùng Văn C",
-                        Address = "Quảng Ninh"
+                        Address = "Quảng Ninh",
+                        PhoneNumber = "09876540000"
                         
                     }
                 );
